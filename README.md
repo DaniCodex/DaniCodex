@@ -16,7 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=DaniCodex&icon=5&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/donate/?hosted_button_id=3X6NV69DTXGZE) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/https://www.paypal.com/donate/?hosted_button_id=3X6NV69DTXGZE](https://www.paypal.com/donate/?hosted_button_id=3X6NV69DTXGZE)) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
