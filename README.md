@@ -19,7 +19,7 @@
 ### 🔝 Trabajo Más Relevante
 ![](https://github-contributor-stats.vercel.app/api?username=DaniCodex&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
-![Visitas](https://hitwebcounter.com/counter/counter.php?page=https://github.com/DaniCodex&style=0011&nbdigits=5&type=page&initCount=0)
+![Pageviews](https://www.oxfordhills.app/api/gh-pageviews/DaniCodex)
 
 ## 💰 Ayúdame a seguir creando
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=3X6NV69DTXGZE) 
