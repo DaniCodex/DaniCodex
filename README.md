@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hola! Bienvenidos a mi GitHub
 
 🎮 **Desarrolladora apasionada por enseñar programación**  
