@@ -1,18 +1,11 @@
 # 👋 Hola! Bienvenidos a mi GitHub
 
-🎮 **Desarrolladora apasionada por enseñar programación**  
-En este repositorio encontrarás el código de los proyectos de los tutoriales que hago.  
-Mi objetivo es ayudar a otros a aprender programación de manera práctica y sencilla.
-
----
-
-# 🌟 Proyectos:
-Nuevas ideas en desarrollo, ¡mantente atento/a!
-
----
-
-💡 **Me gusta compartir conocimiento** y aprender junto a la comunidad de desarrolladores.
--
+🎮 **Desarrollador apasionada por enseñar programación**  
+- En este repositorio encontrarás el código de los proyectos de los tutoriales que hago.  
+- Mi objetivo es ayudar a otros a aprender programación de manera práctica y sencilla.
+- Me gusta compartir conocimiento y aprender junto a la comunidad de desarrolladores.
+- Nuevas ideas en desarrollo, ¡mantente atento/a!
+--
 # 📬 Contáctame:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/mike.dan.pc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mike.dan.pc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danicodex/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@mike.dan.pc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/mike_dan_pc) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@danicodex) 
 
