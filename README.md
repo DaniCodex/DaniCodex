@@ -1,5 +1,24 @@
 # 💫 About Me:
-👋 Hola! Bienvenidos a mi GitHub<br>🎮 Desarrolladora apasionada por enseñar programación<br><br>En este repositorio encontrarás el código de los proyectos de los tutoriales que hago.<br>Mi objetivo es ayudar a otros a aprender programación de manera práctica y sencilla.<br>s:<br><br>Nuevas ideas en desarrollo, ¡mantente atento/a!<br>💡 Me gusta compartir conocimiento y aprender junto a la comunidad de desarrolladores.<br><br>📬 Contáctame:<br><br>✉️ Si tienes dudas o sugerencias, no dudes en escribirme.
+# 👋 Hola! Bienvenidos a mi GitHub
+
+🎮 **Desarrolladora apasionada por enseñar programación**  
+En este repositorio encontrarás el código de los proyectos de los tutoriales que hago.  
+Mi objetivo es ayudar a otros a aprender programación de manera práctica y sencilla.
+
+---
+
+## 🌟 Proyectos:
+Nuevas ideas en desarrollo, ¡mantente atento/a!
+
+---
+
+💡 **Me gusta compartir conocimiento** y aprender junto a la comunidad de desarrolladores.
+
+---
+
+## 📬 Contáctame:
+✉️ Si tienes dudas o sugerencias, no dudes en escribirme.
+
 
 
 ## 🌐 Socials:
