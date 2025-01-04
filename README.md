@@ -19,7 +19,7 @@
 ### 🔝 Trabajo Más Relevante
 ![](https://github-contributor-stats.vercel.app/api?username=DaniCodex&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=DaniCodex&icon=4&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DaniCodex)](https://visitcount.itsvg.in)
 
 ## 💰 Ayúdame a seguir creando
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=3X6NV69DTXGZE) 
