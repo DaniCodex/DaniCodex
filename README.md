@@ -1,4 +1,4 @@
-# Hi, I'm Dani 👋
+# Hi, I'm Myke 👋
 
 I'm a **Systems and Business Engineering student** with a passion for computer science. I enjoy building software, solving problems, and exploring new ideas.
 
