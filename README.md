@@ -22,6 +22,10 @@ Explore my [JavaScript projects](https://github.com/DaniCodex/100-proyectos-java
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
+## Most used languages
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniCodex&theme=aura&hide_border=true&layout=compact)
+
 ## Connect with me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://web.facebook.com/soydanicodex)
