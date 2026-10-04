@@ -1,14 +1,14 @@
 # Hi, I'm Dani 👋
 
-I'm a **Systems and Business Engineering student** with a passion for computer science. I enjoy building software, exploring new ideas, and sharing what I learn through practical programming tutorials.
+I'm a **Systems and Business Engineering student** with a passion for computer science. I enjoy building software, solving problems, and exploring new ideas.
 
 ## What you'll find here
 
-- Code and examples from my tutorials
-- Hands-on projects to make programming easier to learn
-- Experiments and new ideas as I keep growing as a developer
+- Software projects I've built while learning and experimenting
+- Web development and programming projects
+- New ideas as I continue growing as a developer
 
-Explore my [programming tutorials](https://github.com/DaniCodex/pagina-web-tutoriales) and [JavaScript projects](https://github.com/DaniCodex/100-proyectos-javascript).
+Explore my [JavaScript projects](https://github.com/DaniCodex/100-proyectos-javascript).
 
 ## Technologies I use
 
@@ -33,4 +33,4 @@ Explore my [programming tutorials](https://github.com/DaniCodex/pagina-web-tutor
 
 ## Support my work
 
-If my tutorials help you, you can [support me on PayPal](https://www.paypal.com/donate/?hosted_button_id=3X6NV69DTXGZE).
+If you find my projects useful, you can [support my work on PayPal](https://www.paypal.com/donate/?hosted_button_id=3X6NV69DTXGZE).
