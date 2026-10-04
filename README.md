@@ -31,12 +31,6 @@ Explore my [programming tutorials](https://github.com/DaniCodex/pagina-web-tutor
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/danicodex)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@danicodex)
 
-## GitHub activity
-
-![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniCodex&theme=aura&hide_border=true&include_all_commits=true&count_private=false)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniCodex&theme=aura&hide_border=true&layout=compact)
-
 ## Support my work
 
 If my tutorials help you, you can [support me on PayPal](https://www.paypal.com/donate/?hosted_button_id=3X6NV69DTXGZE).
